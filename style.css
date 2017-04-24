@@ -620,7 +620,11 @@ h1,h2,h3,h4,h5,h6,p,label,.btn,a{
 	background-color: #213A7A;
 }
 
-/* make sidebar nav vertical */ 
+
+
+
+
+/* make sidebar nav vertical */
 @media (min-width: 768px) {
   .sidebar-nav .navbar .navbar-collapse {
     padding: 0;
